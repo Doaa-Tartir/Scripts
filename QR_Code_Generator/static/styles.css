@@ -1,0 +1,23 @@
+body {
+    font-family: "Crimson Text", serif;
+}
+
+.btn{
+    font-size: 1.5rem;
+}
+
+/* span */
+#basic-addon3{
+    font-size: 1.2rem;
+}
+
+#link-form{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 500px;
+}
+
+.generated-div{
+    margin: 25px auto;
+    text-align: center;
+}
