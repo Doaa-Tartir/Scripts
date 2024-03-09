@@ -2,5 +2,5 @@
 
 Simple QR code generator, used to convert links into QR codes. Implemented using Flask and integrated into a website interface.
 
-![qr](https://github.com/DoaaTartir/Scripts/assets/117571117/aeb51625-6056-4b88-860b-c169535b108a)
+![qr](https://github.com/Doaa-Tartir/Scripts/assets/162336526/45349557-8234-4187-93fa-3873ca82e018)
 
